@@ -1,5 +1,5 @@
 # PlayHooks
-Vamos a construir una web de juegos usando la API: https://api.igdb.com/v4/games/{endpoint name}
+Vamos a construir una web de juegos usando la API: https://api.igdb.com/v4/games/
 
 ## Proyecto
 
